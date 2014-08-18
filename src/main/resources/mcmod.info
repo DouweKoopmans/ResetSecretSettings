@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ResetSecretSettings",
+  "name": "Rest Secret Settings",
+  "description": "adds an option to reset the secret settings to default when you accidentally clicked it",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Falling_Dutchman"],
+  "credits": "Falling_Dutchman, for making this mod",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
