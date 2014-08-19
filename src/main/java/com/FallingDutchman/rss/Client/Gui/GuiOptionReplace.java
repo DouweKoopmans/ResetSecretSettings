@@ -19,7 +19,7 @@ public class GuiOptionReplace extends GuiOptions
     {
         super.initGui();
 
-        btnRssReset = new GuiButton(9998, this.width / 2 + 157, this.height / 6 + 48 - 6, 50, 20, "Reset");
+        btnRssReset = new GuiButton(9998, this.width / 2 + 157, this.height / 6 + 66, 50, 20, "Reset");
         this.buttonList.add(btnRssReset);
     }
 
